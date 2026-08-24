@@ -31,7 +31,19 @@
 
 <!-- ======================= ABOUT ======================= -->
 
----
+## 🧠 About Me
+
+🎓 B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**
+
+🤖 Interested in **Generative AI, RAG, LLM Applications & Machine Learning**
+
+💻 Strong foundation in **C++, Python, DSA, OOPs, SQL & DBMS**
+
+🚀 I build AI systems that transform real-world problems into practical solutions.
+
+🔭 Currently exploring **LLM pipelines, RAG systems, model deployment & AI engineering**
+
+⚡ **Build → Learn → Deploy → Improve**
 
 ### 🛠️ Tech Stack
 
