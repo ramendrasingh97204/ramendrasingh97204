@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- ======================= HERO ======================= -->
 
-<!--
-**ramendrasingh97204/ramendrasingh97204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Ramendra Singh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI / ML Engineer • GenAI Developer • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Generative+AI;RAG+%7C+LLMs+%7C+Vector+Search;Turning+Data+into+Real-World+Solutions" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/ramendrasingh97204)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramendra-singh-11a93b273/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+</div>
+
+---
+
+<!-- ======================= ABOUT ======================= -->
+
+## 🧠 About Me
+
+```python
+class RamendraSingh:
+
+    role = "AI / ML Engineer"
+    education = "B.Tech CSE — AI & ML"
+
+    interests = [
+        "Machine Learning",
+        "Generative AI",
+        "RAG Systems",
+        "LLM Applications",
+        "NLP",
+        "Model Deployment"
+    ]
+
+    currently_building = [
+        "AI-powered applications",
+        "Machine Learning pipelines",
+        "GenAI systems"
+    ]
+
+    philosophy = "Build → Learn → Deploy → Improve"
