@@ -44,6 +44,13 @@
 🔭 Currently exploring **LLM pipelines, RAG systems, model deployment & AI engineering**
 
 ⚡ **Build → Learn → Deploy → Improve**
+<div align="center">
+
+### ⚡ AI ENGINEERING TERMINAL
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=ramendra%40ai-core%3A~%24+./initialize_ai_engine;Loading+Python+Environment+........+%E2%9C%93;Initializing+Machine+Learning+........+%E2%9C%93;Loading+Generative+AI+...............+%E2%9C%93;Initializing+RAG+Pipeline+.............+%E2%9C%93;Connecting+Vector+Search+.............+%E2%9C%93;Starting+Model+Deployment+............+%E2%9C%93;SYSTEM+STATUS%3A+AI+ENGINEER+ONLINE+%F0%9F%A4%96" />
+
+</div>
 
 ### 🛠️ Tech Stack
 
