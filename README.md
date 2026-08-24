@@ -31,22 +31,44 @@
 
 <!-- ======================= ABOUT ======================= -->
 
-## 🧠 About Me
+---
 
-```python
-class RamendraSingh:
+### 🛠️ Tech Stack
 
-    role = "AI / ML Engineer"
-    education = "B.Tech CSE — AI & ML"
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-    interests = [
-        "Machine Learning",
-        "Generative AI",
-        "RAG Systems",
-        "LLM Applications",
-        "NLP",
-        "Model Deployment"
-    ]
+**AI, Machine Learning & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+**Cloud & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💡 Featured Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **ResuLift (AI Resume Analyzer)** | React, Puter.js, LLM APIs | Intelligent ATS scoring, instant feedback generation, and resume optimization engine. |
+| **Student Mental Health Prediction** | Python, Scikit-Learn, Streamlit | Supervised ML classifier analyzing academic stress factors with data visualizations. |
+| **PriceVision (Real Estate Predictor)** | Python, XGBoost, FastAPI | Multi-variable regression model predicting real estate valuations based on regional metrics. |
 
     currently_building = [
         "AI-powered applications",
