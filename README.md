@@ -2,19 +2,30 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ramendra Singh
+# 🤖 RAMENDRA SINGH
 
-### 🤖 AI / ML Engineer • GenAI Developer • Problem Solver
+### AI / ML ENGINEER • GENAI DEVELOPER • PROBLEM SOLVER
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Generative+AI;RAG+%7C+LLMs+%7C+Vector+Search;Turning+Data+into+Real-World+Solutions" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%26+RAG+Pipelines;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Full-Stack+AI+Applications+%26+Deployment;Turning+Complex+Data+Into+Scalable+Solutions" />
 
-<br>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/ramendrasingh97204)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramendra-singh-11a93b273/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=100&section=header"/>
 
 </div>
+
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│  ramendra@ai-lab:~$ ./initialize_profile.sh                  │
+│                                                              │
+│  [✓] Python & C++ Environments           [ READY ]           │
+│  [✓] Machine Learning & Neural Networks  [ READY ]           │
+│  [✓] GenAI & RAG Orchestration           [ READY ]           │
+│  [✓] Vector Search & Embeddings          [ READY ]           │
+│  [✓] Cloud & Model Deployment (AWS)      [ READY ]           │
+│                                                              │
+│  SYSTEM STATUS: AI / ML ENGINEER ONLINE 🚀                   │
+└──────────────────────────────────────────────────────────────┘
 
 ---
 
